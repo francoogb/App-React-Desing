@@ -15,6 +15,18 @@ const Frontend = () => {
       ),
     },
     {key:2, label: <Link to="/iconos" title="Íconos">Íconos</Link>},
+    {key:3, label: <Link to="/button" title="Button">Button</Link>},
+    {key:4, label: <Link to="/typography" title="Typography">Typography</Link>},
+    {key:5, label: <Link to="/message" title="Message">Message</Link>},
+    {key:6, label: <Link to="/carousel" title="Carousel">Carousel</Link>},
+    {key:7, label: <Link to="/modal" title="Modal">Modal</Link>},
+    {key:8, label: <Link to="/grid" title="Grid">Grid</Link>},
+    {key:9, label: <Link to="/input" title="Input">Input</Link>},
+    {key:10, label: <Link to="/formulario" title="Form">Form</Link>},
+    {key:11, label: <Link to="/table" title="Table">Table</Link>},
+    {key:12, label: <Link to="/table-fetch" title="Table Fetch">Table Fetch</Link>},
+
+
 
   ];
 
